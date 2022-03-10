@@ -1,0 +1,11 @@
+.item {
+    border: solid 1px #808080;
+    border-radius: 5px;
+    margin: 12px auto;
+    width: 50%;
+    cursor: pointer;
+}
+.name, .phone {
+    margin-bottom: 6px;
+    margin-top: 3px;
+}
