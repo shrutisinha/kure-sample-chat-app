@@ -15,7 +15,7 @@ You may also see any lint errors in the console.
 
 # Steps to verify:
 1. Run app.
-2. Have to enter a phonenumber present in db in login page (sample: "918888883213")
+2. Have to enter a phonenumber present in db in login page 
 3. Redirects to sendbird chat component.
 4. Can see 30 users with status CONFIRMED_VIA_SMS in console
 5. Only 2 users got added, can chat with them
